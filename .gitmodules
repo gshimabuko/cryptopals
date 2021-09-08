@@ -4,3 +4,6 @@
 [submodule "cryptopals1_2"]
 	path = cryptopals1_2
 	url = git@github.com:gshimabuko/cryptopals1_2.git
+[submodule "cryptopals1_3"]
+	path = cryptopals1_3
+	url = git@github.com:gshimabuko/cryptopals1_3.git
